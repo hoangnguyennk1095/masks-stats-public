@@ -70,8 +70,6 @@ The project includes a Cast Action install button. Make sure to customize the li
 
 ## Warpcast Validation
 
-![CleanShot 2024-08-15 at 09 10 58@2x](https://github.com/user-attachments/assets/46bff4fd-4a1e-47a4-81a8-8f936c238975)
-
 Check your frame at https://warpcast.com/~/developers/frames . Be sure to use the short url that vercel gives you (Warpcast doesn't like long urls), and add /frames to the end (as in the screenshot above).
 
 ## Contributing
